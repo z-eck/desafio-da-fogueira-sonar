@@ -51,4 +51,4 @@ spec:
   type: LoadBalancer
   ports:
     - port: 9000
-      nodePort: 9000
+      nodePort: 30001
